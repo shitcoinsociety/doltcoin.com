@@ -16,7 +16,7 @@
   </div>
   <menu>
     <li>
-<a class="github-button" href="https://github.com/shitcoinsociety/doltcoin" data-color-scheme="no-preference: light; light: light; dark: dark;" data-size="large" data-show-count="true" aria-label="Star shitcoinsociety/doltcoin on GitHub">Star</a>
+      <a class="github-button" href="https://github.com/shitcoinsociety/doltcoin" data-color-scheme="no-preference: light; light: light; dark: light;" data-size="large" data-show-count="true" aria-label="Star shitcoinsociety/doltcoin on GitHub">Star</a>
     </li>
   </menu>
 </header>
