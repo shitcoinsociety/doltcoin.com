@@ -19,7 +19,7 @@
 </h2>
 
 <p>
-  DoltCoin is an upcoming blockchain and crypto-currency utilizing <a href="https://github.com/dolthub/dolt">Dolt</a> as its backing database. It has a focus on simplicity and
+  DoltCoin ($DOLT) is an upcoming blockchain and crypto-currency utilizing <a href="https://github.com/dolthub/dolt">Dolt</a> as its backing database. It has a focus on simplicity and
   ease of use, and is designed to be accessible by everyone, regardless of their
   technical background.
 </p>
