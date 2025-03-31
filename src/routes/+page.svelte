@@ -10,7 +10,8 @@
   });
 </script>
 
-<h1 class="brand">
+<h1 class="brand text-4xl">
+  <img src="/icon.svg" alt="D" class="h-20 inline-block" />
   DoltCoin
 </h1>
 

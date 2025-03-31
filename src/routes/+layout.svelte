@@ -12,6 +12,7 @@
 
 <header>
   <div class="brand">
+    <img src="/icon.svg" alt="D" class="h-8 inline-block" />
     DoltCoin
   </div>
   <menu>
