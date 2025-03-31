@@ -25,7 +25,7 @@
 </p>
 
 <p>
-  [This article](https://dev.to/buhrmi/dolt-as-a-backing-database-for-blockchains-1ba4) explains the
+  <a href="https://dev.to/buhrmi/dolt-as-a-backing-database-for-blockchains-1ba4" target="_blank">This article</a> explains the
   original motivation for DoltCoin, and using Dolt as a backing database.
 </p>
 
@@ -42,7 +42,7 @@
 
 <p>
   We're incredibly proud to announce that DoltCoin will launch on
-  <a href="https://www.shitcoinswap.com">Shitcoin Swap</a>, a new open-source
+  <a href="https://www.shitcoinswap.com" target="_blank">Shitcoin Swap</a>, a new open-source
   trading platform and community.
 </p>
 
