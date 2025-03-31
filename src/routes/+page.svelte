@@ -24,8 +24,29 @@
   technical background.
 </p>
 
+<p>
+  [This article](https://dev.to/buhrmi/dolt-as-a-backing-database-for-blockchains-1ba4) explains the
+  original motivation for DoltCoin, and using Dolt as a backing database.
+</p>
+
 <h2>
-  Get started
+  How to get DoltCoin?
+</h2>
+
+<p>
+  You can get DoltCoin by running a DoltCoin node, or by buying it on an exchange.
+</p>
+
+<h3>Supported Exchanges</h3>
+
+<ul>
+  <li>
+    <a href="https://www.shitcoinswap.com">Shitcoin Swap</a>
+  </li>
+</ul>
+
+<h2>
+  Run your own node
 </h2>
 
 <p>
