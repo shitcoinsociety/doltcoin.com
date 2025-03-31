@@ -39,11 +39,17 @@
 
 <h3>Supported Exchanges</h3>
 
-<ul>
-  <li>
-    <a href="https://www.shitcoinswap.com">Shitcoin Swap</a>
-  </li>
-</ul>
+
+<p>
+  We're incredibly proud to announce that DoltCoin will launch on
+  <a href="https://www.shitcoinswap.com">Shitcoin Swap</a>, a new open-source
+  trading platform and community.
+</p>
+
+<p>
+  More exchanges will be announced in the future.
+</p>
+
 
 <h2>
   Run your own node
